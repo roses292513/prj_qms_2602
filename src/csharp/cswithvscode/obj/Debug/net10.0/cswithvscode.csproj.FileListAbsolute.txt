@@ -1,0 +1,15 @@
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\bin\Debug\net10.0\cswithvscode.exe
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\bin\Debug\net10.0\cswithvscode.deps.json
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\bin\Debug\net10.0\cswithvscode.runtimeconfig.json
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\bin\Debug\net10.0\cswithvscode.dll
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\bin\Debug\net10.0\cswithvscode.pdb
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.AssemblyInfoInputs.cache
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.AssemblyInfo.cs
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.csproj.CoreCompileInputs.cache
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.sourcelink.json
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.dll
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\refint\cswithvscode.dll
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.pdb
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\cswithvscode.genruntimeconfig.cache
+C:\workspace\prj_qms_2602\src\csharp\cswithvscode\obj\Debug\net10.0\ref\cswithvscode.dll
